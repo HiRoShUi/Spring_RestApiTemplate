@@ -6,4 +6,4 @@ cd source-code/org.makro.spring.restapi.general
 	./mvnw clean package
 cd ..
 
-cp source-code/org.makro.spring.restapi.general/target/restapi.jar  build-output/.
+cp source-code/org.makro.spring.restapi.general/target/restapi-1.0.0.jar  build-output/.

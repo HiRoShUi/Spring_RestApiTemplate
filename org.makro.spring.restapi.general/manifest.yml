@@ -1,6 +1,6 @@
 applications:
 - name: rest-api
-  path: target/restapi.jar
+  path: target/restapi-1.0.0.jar
   memory: 1G
   random-route: true
   instances: 1   
